@@ -2,3 +2,4 @@
 ## Interests
 - Angular
 - Typescript
+- Rust
