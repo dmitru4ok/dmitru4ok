@@ -2,4 +2,4 @@
 ## Interests
 - Angular
 - Typescript
-- Rust
+- RISCV assembly, low-level stuff
