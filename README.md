@@ -2,7 +2,7 @@
 ### Ultimage 5000-page specification document enjoyer
 ### Senior Trainee VibeCoder
 ### Industrial-scale caffeine consumer
-### Manager f unamanged memory department
+### Manager of unamanged memory department
 ### JavaScript equality comparison expert
 ### Stack overflow-driven developer
 ### Architecture astronaut
